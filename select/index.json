@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "「僕は...」",
+  "base_artist": "あたらよ",
+  "createdAt": "2025-12-02T03:33:13.083501Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "「僕は...」",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_「僕は...」_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "「僕は..",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/02_「僕は.._あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "「僕は...」",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/03_「僕は...」_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "「僕は...」",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/04_「僕は...」_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "うそつきだ、僕は",
+      "artist": "イトヲカシ",
+      "has_synced": true,
+      "path": "select/05_うそつきだ、僕は_イトヲカシ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "最低だ、僕は。",
+      "artist": "楠木ともり",
+      "has_synced": true,
+      "path": "select/06_最低だ、僕は。_楠木ともり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "「僕は...」 (Piano ver.)",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/07_「僕は...」_(Piano_ver.)_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "「僕は…」 (Piano ver.)",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/08_「僕は...」_(Piano_ver.)_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "最低だ、僕は。",
+      "artist": "Tomori Kusunoki",
+      "has_synced": false,
+      "path": "select/09_最低だ、僕は。_Tomori_Kusunoki.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "「僕は...」",
+      "artist": "ATARAYO",
+      "has_synced": false,
+      "path": "select/10_「僕は...」_ATARAYO.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕は...",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_僕は..._あたらよ.txt"
+    }
+  ]
+}
